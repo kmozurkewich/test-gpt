@@ -15,8 +15,7 @@ genealogy-llm/
 │   ├── model_config.py     # Model configuration
 │   ├── train.py           # Training setup and execution
 │   └── utils.py           # Helper functions
-└── notebooks/
-    └── exploration.ipynb  # Data exploration and testing
+
 ```
 
 ## Installation
